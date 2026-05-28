@@ -116,7 +116,7 @@ O SHOW ME busca incentivar:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=showmetcc-project\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showmetcc-project\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showmetcc-project\&layout=compact\&theme=radical)
 
 </div>
 
