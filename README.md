@@ -68,7 +68,7 @@ Tudo em uma única experiência moderna e intuitiva.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,aws,git,github,vscode" />
 
 </div>
 
@@ -78,10 +78,10 @@ Tudo em uma única experiência moderna e intuitiva.
 
 | Cor             | Hex       |
 | --------------- | --------- |
-| Neon Green      | `#D9FF00` |
-| Electric Purple | `#7B00FF` |
-| Hot Pink        | `#FF3CAC` |
-| Deep Black      | `#050505` |
+| Neon Green      | #D9FF00 |
+| Electric Purple | #7B00FF |
+| Hot Pink        | #FF3CAC |
+| Deep Black      | #050505 |
 
 ---
 
@@ -114,9 +114,9 @@ O SHOW ME busca incentivar:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=showmetcc-project\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showmetcc-project\&layout=compact\&theme=radical)
 
 </div>
 
